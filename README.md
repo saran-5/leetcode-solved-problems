@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/saran-5/leetcode-solved-problems/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/saran-5/leetcode-solved-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saran-5/leetcode-solved-problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/saran-5/leetcode-solved-problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/saran-5/leetcode-solved-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/saran-5/leetcode-solved-problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/saran-5/leetcode-solved-problems/tree/master/0739-daily-temperatures) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/saran-5/leetcode-solved-problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/saran-5/leetcode-solved-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/saran-5/leetcode-solved-problems/tree/master/0933-number-of-recent-calls) |
 ## Queue
