@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/saran-5/leetcode-solved-problems/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/saran-5/leetcode-solved-problems/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/saran-5/leetcode-solved-problems/tree/master/0217-contains-duplicate) |
+| [0904-fruit-into-baskets](https://github.com/saran-5/leetcode-solved-problems/tree/master/0904-fruit-into-baskets) |
 | [1480-running-sum-of-1d-array](https://github.com/saran-5/leetcode-solved-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/saran-5/leetcode-solved-problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Hash Table
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/saran-5/leetcode-solved-problems/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/saran-5/leetcode-solved-problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/saran-5/leetcode-solved-problems/tree/master/0217-contains-duplicate) |
+| [0904-fruit-into-baskets](https://github.com/saran-5/leetcode-solved-problems/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/saran-5/leetcode-solved-problems/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/saran-5/leetcode-solved-problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Sliding Window
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/saran-5/leetcode-solved-problems/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
