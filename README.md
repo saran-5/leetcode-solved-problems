@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/saran-5/leetcode-solved-problems/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/saran-5/leetcode-solved-problems/tree/master/0202-happy-number) |
+| [0844-backspace-string-compare](https://github.com/saran-5/leetcode-solved-problems/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/saran-5/leetcode-solved-problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/saran-5/leetcode-solved-problems/tree/master/0058-length-of-last-word) |
 | [0572-subtree-of-another-tree](https://github.com/saran-5/leetcode-solved-problems/tree/master/0572-subtree-of-another-tree) |
+| [0844-backspace-string-compare](https://github.com/saran-5/leetcode-solved-problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saran-5/leetcode-solved-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Binary Tree
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/saran-5/leetcode-solved-problems/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/saran-5/leetcode-solved-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0844-backspace-string-compare](https://github.com/saran-5/leetcode-solved-problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saran-5/leetcode-solved-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
@@ -159,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/saran-5/leetcode-solved-problems/tree/master/0933-number-of-recent-calls) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/saran-5/leetcode-solved-problems/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
