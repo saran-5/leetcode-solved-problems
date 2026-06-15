@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/saran-5/leetcode-solved-problems/tree/master/0904-fruit-into-baskets) |
 | [1480-running-sum-of-1d-array](https://github.com/saran-5/leetcode-solved-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/saran-5/leetcode-solved-problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1920-build-array-from-permutation](https://github.com/saran-5/leetcode-solved-problems/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/saran-5/leetcode-solved-problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/saran-5/leetcode-solved-problems/tree/master/0844-backspace-string-compare) |
+| [1920-build-array-from-permutation](https://github.com/saran-5/leetcode-solved-problems/tree/master/1920-build-array-from-permutation) |
 ## Monotonic Stack
 |  |
 | ------- |
