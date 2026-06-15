@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/saran-5/leetcode-solved-problems/tree/master/0904-fruit-into-baskets) |
 | [1480-running-sum-of-1d-array](https://github.com/saran-5/leetcode-solved-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/saran-5/leetcode-solved-problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1512-number-of-good-pairs](https://github.com/saran-5/leetcode-solved-problems/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/saran-5/leetcode-solved-problems/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/saran-5/leetcode-solved-problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/saran-5/leetcode-solved-problems/tree/master/0217-contains-duplicate) |
 | [0904-fruit-into-baskets](https://github.com/saran-5/leetcode-solved-problems/tree/master/0904-fruit-into-baskets) |
+| [1512-number-of-good-pairs](https://github.com/saran-5/leetcode-solved-problems/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/saran-5/leetcode-solved-problems/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saran-5/leetcode-solved-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/saran-5/leetcode-solved-problems/tree/master/0202-happy-number) |
+| [1512-number-of-good-pairs](https://github.com/saran-5/leetcode-solved-problems/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/saran-5/leetcode-solved-problems/tree/master/0739-daily-temperatures) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/saran-5/leetcode-solved-problems/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
