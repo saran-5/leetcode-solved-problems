@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/saran-5/leetcode-solved-problems/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/saran-5/leetcode-solved-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/saran-5/leetcode-solved-problems/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/saran-5/leetcode-solved-problems/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/saran-5/leetcode-solved-problems/tree/master/0904-fruit-into-baskets) |
 | [1480-running-sum-of-1d-array](https://github.com/saran-5/leetcode-solved-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/saran-5/leetcode-solved-problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/saran-5/leetcode-solved-problems/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/saran-5/leetcode-solved-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0682-baseball-game](https://github.com/saran-5/leetcode-solved-problems/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/saran-5/leetcode-solved-problems/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/saran-5/leetcode-solved-problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saran-5/leetcode-solved-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/saran-5/leetcode-solved-problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/saran-5/leetcode-solved-problems/tree/master/0844-backspace-string-compare) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/saran-5/leetcode-solved-problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
