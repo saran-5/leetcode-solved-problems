@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/saran-5/leetcode-solved-problems/tree/master/0027-remove-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/saran-5/leetcode-solved-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/saran-5/leetcode-solved-problems/tree/master/0217-contains-duplicate) |
+| [0643-maximum-average-subarray-i](https://github.com/saran-5/leetcode-solved-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/saran-5/leetcode-solved-problems/tree/master/0904-fruit-into-baskets) |
 | [1480-running-sum-of-1d-array](https://github.com/saran-5/leetcode-solved-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/saran-5/leetcode-solved-problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saran-5/leetcode-solved-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/saran-5/leetcode-solved-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/saran-5/leetcode-solved-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/saran-5/leetcode-solved-problems/tree/master/0904-fruit-into-baskets) |
 ## Design
 |  |
