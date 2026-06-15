@@ -6,19 +6,19 @@ class Solution {
         Arrays.sort(nums);
 
         int longest=1;
-        int countcurr=0;
+        int curr=0;
         int lastsmall=Integer.MIN_VALUE;
 
         for(int i=0;i<n;i++){
             if(nums[i]-1 == lastsmall){
-                countcurr=countcurr+1;
+                curr=curr+1;
                 lastsmall=nums[i];
             }
             else if(nums[i]!=lastsmall){
-                countcurr=1;
+                curr=1;
                 lastsmall=nums[i];
             }
-            longest=Math.max(longest,countcurr);
+            longest=Math.max(longest,curr);
         }
         return longest;
     }
