@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/saran-5/leetcode-solved-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/saran-5/leetcode-solved-problems/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/saran-5/leetcode-solved-problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/saran-5/leetcode-solved-problems/tree/master/0102-binary-tree-level-order-traversal) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/saran-5/leetcode-solved-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/saran-5/leetcode-solved-problems/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/saran-5/leetcode-solved-problems/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/saran-5/leetcode-solved-problems/tree/master/0113-path-sum-ii) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/saran-5/leetcode-solved-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/saran-5/leetcode-solved-problems/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/saran-5/leetcode-solved-problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/saran-5/leetcode-solved-problems/tree/master/0102-binary-tree-level-order-traversal) |
@@ -99,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saran-5/leetcode-solved-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saran-5/leetcode-solved-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/saran-5/leetcode-solved-problems/tree/master/0938-range-sum-of-bst) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/saran-5/leetcode-solved-problems/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
