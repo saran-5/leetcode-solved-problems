@@ -1,11 +1,9 @@
 class Solution {
     public boolean isValidSudoku(char[][] board) {
          int n = board.length;
-        // create an array of size n(9), each entry of array is of type HashSet
         Set<Character>[] rows = new HashSet[n];
         Set<Character>[] cols = new HashSet[n];
         Set<Character>[] box = new HashSet[n];
-        // Arrays are created but empty (null). We need to initialize each element with a new HashSet.
         for (int i = 0; i < n; i++) {
             rows[i] = new HashSet<Character>();
             cols[i] = new HashSet<Character>();
