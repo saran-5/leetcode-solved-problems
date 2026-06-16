@@ -1,18 +1,37 @@
 class Solution {
     public boolean isValidSudoku(char[][] board) {
-        boolean[][] rows = new boolean[9][9];
-        boolean[][] cols = new boolean[9][9];
-        boolean[][] boxes = new boolean[9][9];
-
-        for (int i = 0; i < 9; i++) {
-            for (int j = 0; j < 9; j++) {
-                if (board[i][j] != '.') {
-                    int num = board[i][j] - '1';
-                    int boxIndex = (i / 3) * 3 + (j / 3);
-                    if (rows[i][num] || cols[j][num] || boxes[boxIndex][num]) {
-                        return false;
-                    }
-                    rows[i][num] = cols[j][num] = boxes[boxIndex][num] = true;
+         int n = board.length;
+        // create an array of size n(9), each entry of array is of type HashSet
+        Set<Character>[] rows = new HashSet[n];
+        Set<Character>[] cols = new HashSet[n];
+        Set<Character>[] box = new HashSet[n];
+        // Arrays are created but empty (null). We need to initialize each element with a new HashSet.
+        for (int i = 0; i < n; i++) {
+            rows[i] = new HashSet<Character>();
+            cols[i] = new HashSet<Character>();
+            box[i] = new HashSet<Character>();
+        }
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                char curr = board[i][j];
+                if (curr == '.') {
+                    continue;
+                }
+                if (rows[i].contains(curr)) {
+                    return false;
+                } else {
+                    rows[i].add(curr);
+                }
+                if (cols[j].contains(curr)) {
+                    return false;
+                } else {
+                    cols[j].add(curr);
+                }
+                int boxIdx = (i / 3) * 3 + (j / 3);
+                if (box[boxIdx].contains(curr)) {
+                    return false;
+                } else {
+                    box[boxIdx].add(curr);
                 }
             }
         }
