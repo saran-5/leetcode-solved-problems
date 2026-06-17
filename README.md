@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/saran-5/leetcode-solved-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saran-5/leetcode-solved-problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/saran-5/leetcode-solved-problems/tree/master/0347-top-k-frequent-elements) |
+| [0771-jewels-and-stones](https://github.com/saran-5/leetcode-solved-problems/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/saran-5/leetcode-solved-problems/tree/master/0904-fruit-into-baskets) |
 | [1512-number-of-good-pairs](https://github.com/saran-5/leetcode-solved-problems/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/saran-5/leetcode-solved-problems/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/saran-5/leetcode-solved-problems/tree/master/0242-valid-anagram) |
 | [0572-subtree-of-another-tree](https://github.com/saran-5/leetcode-solved-problems/tree/master/0572-subtree-of-another-tree) |
+| [0771-jewels-and-stones](https://github.com/saran-5/leetcode-solved-problems/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/saran-5/leetcode-solved-problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saran-5/leetcode-solved-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Binary Tree
