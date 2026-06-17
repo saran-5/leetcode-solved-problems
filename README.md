@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/saran-5/leetcode-solved-problems/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/saran-5/leetcode-solved-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saran-5/leetcode-solved-problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/saran-5/leetcode-solved-problems/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/saran-5/leetcode-solved-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saran-5/leetcode-solved-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/saran-5/leetcode-solved-problems/tree/master/0217-contains-duplicate) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/saran-5/leetcode-solved-problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/saran-5/leetcode-solved-problems/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/saran-5/leetcode-solved-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/saran-5/leetcode-solved-problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/saran-5/leetcode-solved-problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/saran-5/leetcode-solved-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saran-5/leetcode-solved-problems/tree/master/0242-valid-anagram) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/saran-5/leetcode-solved-problems/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/saran-5/leetcode-solved-problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saran-5/leetcode-solved-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/saran-5/leetcode-solved-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saran-5/leetcode-solved-problems/tree/master/0242-valid-anagram) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/saran-5/leetcode-solved-problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/saran-5/leetcode-solved-problems/tree/master/0347-top-k-frequent-elements) |
 | [1512-number-of-good-pairs](https://github.com/saran-5/leetcode-solved-problems/tree/master/1512-number-of-good-pairs) |
 ## Union-Find
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/saran-5/leetcode-solved-problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saran-5/leetcode-solved-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/saran-5/leetcode-solved-problems/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
