@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/saran-5/leetcode-solved-problems/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saran-5/leetcode-solved-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/saran-5/leetcode-solved-problems/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/saran-5/leetcode-solved-problems/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/saran-5/leetcode-solved-problems/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/saran-5/leetcode-solved-problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/saran-5/leetcode-solved-problems/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/saran-5/leetcode-solved-problems/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/saran-5/leetcode-solved-problems/tree/master/0412-fizz-buzz) |
 | [0572-subtree-of-another-tree](https://github.com/saran-5/leetcode-solved-problems/tree/master/0572-subtree-of-another-tree) |
 | [0771-jewels-and-stones](https://github.com/saran-5/leetcode-solved-problems/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/saran-5/leetcode-solved-problems/tree/master/0844-backspace-string-compare) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/saran-5/leetcode-solved-problems/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/saran-5/leetcode-solved-problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/saran-5/leetcode-solved-problems/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/saran-5/leetcode-solved-problems/tree/master/1920-build-array-from-permutation) |
