@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/saran-5/leetcode-solved-problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/saran-5/leetcode-solved-problems/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saran-5/leetcode-solved-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/saran-5/leetcode-solved-problems/tree/master/0202-happy-number) |
@@ -252,4 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/saran-5/leetcode-solved-problems/tree/master/0036-valid-sudoku) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/saran-5/leetcode-solved-problems/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/saran-5/leetcode-solved-problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
