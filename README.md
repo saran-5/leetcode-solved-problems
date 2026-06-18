@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/saran-5/leetcode-solved-problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/saran-5/leetcode-solved-problems/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/saran-5/leetcode-solved-problems/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/saran-5/leetcode-solved-problems/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/saran-5/leetcode-solved-problems/tree/master/0412-fizz-buzz) |
 | [0572-subtree-of-another-tree](https://github.com/saran-5/leetcode-solved-problems/tree/master/0572-subtree-of-another-tree) |
 | [0771-jewels-and-stones](https://github.com/saran-5/leetcode-solved-problems/tree/master/0771-jewels-and-stones) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/saran-5/leetcode-solved-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/saran-5/leetcode-solved-problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/saran-5/leetcode-solved-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/saran-5/leetcode-solved-problems/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/saran-5/leetcode-solved-problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/saran-5/leetcode-solved-problems/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/saran-5/leetcode-solved-problems/tree/master/0844-backspace-string-compare) |
@@ -264,4 +266,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saran-5/leetcode-solved-problems/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/saran-5/leetcode-solved-problems/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
