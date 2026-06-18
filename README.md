@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/saran-5/leetcode-solved-problems/tree/master/0572-subtree-of-another-tree) |
 | [0771-jewels-and-stones](https://github.com/saran-5/leetcode-solved-problems/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/saran-5/leetcode-solved-problems/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/saran-5/leetcode-solved-problems/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saran-5/leetcode-solved-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Binary Tree
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/saran-5/leetcode-solved-problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/saran-5/leetcode-solved-problems/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/saran-5/leetcode-solved-problems/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/saran-5/leetcode-solved-problems/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saran-5/leetcode-solved-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
