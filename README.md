@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/saran-5/leetcode-solved-problems/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/saran-5/leetcode-solved-problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/saran-5/leetcode-solved-problems/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/saran-5/leetcode-solved-problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saran-5/leetcode-solved-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/saran-5/leetcode-solved-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saran-5/leetcode-solved-problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/saran-5/leetcode-solved-problems/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/saran-5/leetcode-solved-problems/tree/master/0113-path-sum-ii) |
 ## Binary Search Tree
 |  |
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/saran-5/leetcode-solved-problems/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/saran-5/leetcode-solved-problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
