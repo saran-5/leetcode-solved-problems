@@ -4,7 +4,7 @@ class Solution {
         sub(nums, new ArrayList<>(), 0, res);
         return res;
     }
-    private void sub(int[] nums, List<Integer> ans, int i, List<List<Integer>> res){
+    public void sub(int[] nums, List<Integer> ans, int i, List<List<Integer>> res){
         if(i == nums.length){
             res.add(new ArrayList<>(ans)); 
             return;
