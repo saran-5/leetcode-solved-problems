@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/saran-5/leetcode-solved-problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saran-5/leetcode-solved-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saran-5/leetcode-solved-problems/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/saran-5/leetcode-solved-problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/saran-5/leetcode-solved-problems/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/saran-5/leetcode-solved-problems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/saran-5/leetcode-solved-problems/tree/master/0046-permutations) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/saran-5/leetcode-solved-problems/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/saran-5/leetcode-solved-problems/tree/master/0098-validate-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/saran-5/leetcode-solved-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saran-5/leetcode-solved-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
