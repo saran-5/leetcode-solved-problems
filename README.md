@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/saran-5/leetcode-solved-problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/saran-5/leetcode-solved-problems/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/saran-5/leetcode-solved-problems/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/saran-5/leetcode-solved-problems/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/saran-5/leetcode-solved-problems/tree/master/0904-fruit-into-baskets) |
 | [1480-running-sum-of-1d-array](https://github.com/saran-5/leetcode-solved-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/saran-5/leetcode-solved-problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/saran-5/leetcode-solved-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/saran-5/leetcode-solved-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/saran-5/leetcode-solved-problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/saran-5/leetcode-solved-problems/tree/master/0875-koko-eating-bananas) |
 | [0938-range-sum-of-bst](https://github.com/saran-5/leetcode-solved-problems/tree/master/0938-range-sum-of-bst) |
 ## Stack
 |  |
