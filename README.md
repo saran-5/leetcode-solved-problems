@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/saran-5/leetcode-solved-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/saran-5/leetcode-solved-problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/saran-5/leetcode-solved-problems/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/saran-5/leetcode-solved-problems/tree/master/0435-non-overlapping-intervals) |
 | [0643-maximum-average-subarray-i](https://github.com/saran-5/leetcode-solved-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/saran-5/leetcode-solved-problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/saran-5/leetcode-solved-problems/tree/master/0704-binary-search) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/saran-5/leetcode-solved-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saran-5/leetcode-solved-problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/saran-5/leetcode-solved-problems/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/saran-5/leetcode-solved-problems/tree/master/0435-non-overlapping-intervals) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/saran-5/leetcode-solved-problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Tree
 |  |
@@ -303,4 +305,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/saran-5/leetcode-solved-problems/tree/master/0078-subsets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/saran-5/leetcode-solved-problems/tree/master/0435-non-overlapping-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/saran-5/leetcode-solved-problems/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
