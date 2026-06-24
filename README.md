@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/saran-5/leetcode-solved-problems/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/saran-5/leetcode-solved-problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/saran-5/leetcode-solved-problems/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/saran-5/leetcode-solved-problems/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/saran-5/leetcode-solved-problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saran-5/leetcode-solved-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/saran-5/leetcode-solved-problems/tree/master/0128-longest-consecutive-sequence) |
@@ -308,9 +309,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/saran-5/leetcode-solved-problems/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/saran-5/leetcode-solved-problems/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/saran-5/leetcode-solved-problems/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/saran-5/leetcode-solved-problems/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
