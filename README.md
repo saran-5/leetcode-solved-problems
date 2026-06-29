@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/saran-5/leetcode-solved-problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/saran-5/leetcode-solved-problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/saran-5/leetcode-solved-problems/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/saran-5/leetcode-solved-problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saran-5/leetcode-solved-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/saran-5/leetcode-solved-problems/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/saran-5/leetcode-solved-problems/tree/master/0412-fizz-buzz) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/saran-5/leetcode-solved-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/saran-5/leetcode-solved-problems/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/saran-5/leetcode-solved-problems/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/saran-5/leetcode-solved-problems/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
@@ -323,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/saran-5/leetcode-solved-problems/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/saran-5/leetcode-solved-problems/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/saran-5/leetcode-solved-problems/tree/master/0435-non-overlapping-intervals) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/saran-5/leetcode-solved-problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
