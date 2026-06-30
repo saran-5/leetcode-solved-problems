@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/saran-5/leetcode-solved-problems/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/saran-5/leetcode-solved-problems/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saran-5/leetcode-solved-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/saran-5/leetcode-solved-problems/tree/master/1143-longest-common-subsequence) |
 ## Binary Tree
 |  |
 | ------- |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/saran-5/leetcode-solved-problems/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/saran-5/leetcode-solved-problems/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/saran-5/leetcode-solved-problems/tree/master/0435-non-overlapping-intervals) |
+| [1143-longest-common-subsequence](https://github.com/saran-5/leetcode-solved-problems/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
