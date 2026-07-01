@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saran-5/leetcode-solved-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/saran-5/leetcode-solved-problems/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/saran-5/leetcode-solved-problems/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/saran-5/leetcode-solved-problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/saran-5/leetcode-solved-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saran-5/leetcode-solved-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/saran-5/leetcode-solved-problems/tree/master/0217-contains-duplicate) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/saran-5/leetcode-solved-problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/saran-5/leetcode-solved-problems/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/saran-5/leetcode-solved-problems/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/saran-5/leetcode-solved-problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/saran-5/leetcode-solved-problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saran-5/leetcode-solved-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saran-5/leetcode-solved-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/saran-5/leetcode-solved-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saran-5/leetcode-solved-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/saran-5/leetcode-solved-problems/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/saran-5/leetcode-solved-problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/saran-5/leetcode-solved-problems/tree/master/0226-invert-binary-tree) |
 ## Backtracking
 |  |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/saran-5/leetcode-solved-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/saran-5/leetcode-solved-problems/tree/master/0200-number-of-islands) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/saran-5/leetcode-solved-problems/tree/master/0036-valid-sudoku) |
+| [0200-number-of-islands](https://github.com/saran-5/leetcode-solved-problems/tree/master/0200-number-of-islands) |
 ## Linked List
 |  |
 | ------- |
