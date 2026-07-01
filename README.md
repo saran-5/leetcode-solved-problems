@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saran-5/leetcode-solved-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/saran-5/leetcode-solved-problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/saran-5/leetcode-solved-problems/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/saran-5/leetcode-solved-problems/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/saran-5/leetcode-solved-problems/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/saran-5/leetcode-solved-problems/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/saran-5/leetcode-solved-problems/tree/master/0412-fizz-buzz) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/saran-5/leetcode-solved-problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/saran-5/leetcode-solved-problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/saran-5/leetcode-solved-problems/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/saran-5/leetcode-solved-problems/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/saran-5/leetcode-solved-problems/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/saran-5/leetcode-solved-problems/tree/master/0435-non-overlapping-intervals) |
 | [1143-longest-common-subsequence](https://github.com/saran-5/leetcode-solved-problems/tree/master/1143-longest-common-subsequence) |
