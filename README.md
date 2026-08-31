@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/saran-5/leetcode-solved-problems/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saran-5/leetcode-solved-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/saran-5/leetcode-solved-problems/tree/master/1143-longest-common-subsequence) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/saran-5/leetcode-solved-problems/tree/master/2075-decode-the-slanted-ciphertext) |
 ## Binary Tree
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/saran-5/leetcode-solved-problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/saran-5/leetcode-solved-problems/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/saran-5/leetcode-solved-problems/tree/master/1920-build-array-from-permutation) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/saran-5/leetcode-solved-problems/tree/master/2075-decode-the-slanted-ciphertext) |
 ## Monotonic Stack
 |  |
 | ------- |
